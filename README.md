@@ -1,7 +1,7 @@
 # Material Theme - Black Ocean Ui
 
 #### Proudly Designed By Tactition  
-#### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Black Ocean UI Best Alternative Of Depricated Community Ocean Theme]
+#### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Ocean UI ](https://github.com/Tactition/Custom-Vs-Code-Theme/)
 
 ---
 
@@ -70,7 +70,5 @@ Suggestions
 -  ***Special Thanks*** - **Coding Assitant & Soldier** - 
 
 Your contributions are greatly appreciated!
-
-**WebAssets Dark Theme** is a product of **WebAssets**. All rights reserved.
 
 🚀 **Enjoy coding with WebAssets Dark Theme!**

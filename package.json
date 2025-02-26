@@ -1,0 +1,61 @@
+{
+  "name": "material-theme-ocean-ui",
+  "displayName": "Material Theme - Ocean UI",
+  "description": "Ocean UI is crafted for Visionary developers who spend countless hours coding.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "Tactition ~ Zahid Nazir ~",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "theme",
+    "atom",
+    "dark",
+    "one dark",
+    "material",
+    "ocean",
+    "Zahids Theme",
+    "Material Theme Ocean UI",
+    "Tactitions Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abstract - Ocean UI ~@Tactition Special~",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material-Ocean-Recommended.json"
+      },
+
+      {
+        "label": "Material Theme - Ocean Ui Darker High Contrast",
+        "path": "./themes/Material-Ocean-Darker-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Theme - Ocean UI Darker",
+        "path": "./themes/Material-Ocean-Darker.json",
+        "uiTheme": "vs-dark"
+      },
+
+      {
+        "label": "Material Theme - Ocean UI Palenight High Contrast",
+        "path": "./themes/Material-Ocean-Palenight-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      }
+
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Tactition/Custom-Vs-Code-Theme/"
+    }
+    
+  }
+}
+
+
