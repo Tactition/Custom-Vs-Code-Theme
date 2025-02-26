@@ -4,6 +4,12 @@
 #### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Ocean UI ](https://github.com/Tactition/Custom-Vs-Code-Theme/)
 ---
 
+<details open>
+<summary>ScreenShots Of Theme</summary>
+<br>
+![Theme Image](https://media.licdn.com/dms/image/v2/D5622AQHdikVCZ6rQzQ/feedshare-shrink_800/B56ZVDUjjMGsAg-/0/1740591217684?e=1743638400&v=beta&t=W7ANCq3yp6F7tY8VXDmPwmfJR4trFrH2znBTQnTlNKU)
+</details>
+
 ## 📌 Overview
 Material Theme - Ocean Ui is a modern dark mode theme for Visual Studio Code, designed to offer developers a sleek and comfortable coding environment. It features a carefully curated color palette that reduces eye strain and enhances code readability, making it ideal for long coding sessions.
 
