@@ -1,7 +1,7 @@
 # Material Theme - Black Ocean Ui
 
 #### Proudly Designed By Tactition  
-#### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Black Ocean UI Best Alternative Of Depricated Community Ocean Theme 
+#### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Black Ocean UI Best Alternative Of Depricated Community Ocean Theme]
 
 ---
 
