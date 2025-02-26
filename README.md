@@ -7,7 +7,9 @@
 <details open>
 <summary>ScreenShots Of Theme</summary>
   
-<a href="https://ibb.co/yBWwfhx2"><img src="https://i.ibb.co/R4zxvhJ8/Screenshot-2025-02-26-225053.png" alt="Screenshot-2025-02-26-225053" border="0" /></a>
+<img src="https://i.ibb.co/R4zxvhJ8/Screenshot-2025-02-26-225053.png" alt="Screenshot-2025-02-26-225053" border="0" />
+<br>
+<img src="https://i.ibb.co/847dGCzB/Screenshot-14.png" alt="Screenshot-14" border="0" />
   
 </details>
 
