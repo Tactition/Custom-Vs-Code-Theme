@@ -2,7 +2,7 @@
   "name": "Material-Theme-Twilight-Wave",
   "displayName": "Material Theme Twilight Wave",
   "description": "Material Theme Twilight Wave is crafted for Visionary developers who spend countless hours coding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "ZahidNazir",
   "icon": "icon.png",
@@ -40,22 +40,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Twilight Wave (Zahids Recommended)",
+        "label": "1-Twilight Wave (Zahids Recommended)",
         "uiTheme": "vs-dark",
         "path": "./themes/Material-Ocean-Recommended.json"
       },
       {
-        "label": "Material Theme Twilight Wave Darker High Contrast",
+        "label": "2-Material Theme Twilight Wave Darker High Contrast",
         "path": "./themes/Material-Ocean-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Material Theme Twilight Wave Darker",
+        "label": "3-Material Theme Twilight Wave Darker",
         "path": "./themes/Material-Ocean-Darker.json",
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Material Theme Twilight Wave Palenight High Contrast",
+        "label": "4-Material Theme Twilight Wave Palenight High Contrast",
         "path": "./themes/Material-Ocean-Palenight-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
