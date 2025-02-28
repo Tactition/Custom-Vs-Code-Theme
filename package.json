@@ -1,11 +1,15 @@
 {
-  "name": "material-theme-ocean-ui",
-  "displayName": "Material Theme - Ocean UI",
-  "description": "Ocean UI is crafted for Visionary developers who spend countless hours coding.",
+  "name": "Material-Theme-Twilight-Wave",
+  "displayName": "Material Theme Twilight Wave",
+  "description": "Material Theme Twilight Wave is crafted for Visionary developers who spend countless hours coding",
   "version": "0.0.1",
   "license": "MIT",
-  "publisher": "Tactition ~ Zahid Nazir ~",
+  "publisher": "ZahidNazir",
   "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tactition/Twilight-Wave-VsCode-Theme"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -15,47 +19,50 @@
   "keywords": [
     "VSCode",
     "theme",
+    "Material-Theme-Midnight-Wave",
     "atom",
     "dark",
     "one dark",
     "material",
     "ocean",
     "Zahids Theme",
-    "Material Theme Ocean UI",
-    "Tactitions Theme"
+    "Zahid nazir",
+    "Material Theme",
+    "Community Material Theme",
+    "Community Material Theme Equinusocio",
+    "Material Theme advanced version",
+    "Material Theme advanced version dark theme",
+    "Tactitions Theme",
+    "Material Theme Twilight ocean ui",
+    "Material Theme Twilight Wave",
+    "kashmiri theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Abstract - Ocean UI ~@Tactition Special~",
+        "label": "Twilight Wave (Zahids Recommended)",
         "uiTheme": "vs-dark",
         "path": "./themes/Material-Ocean-Recommended.json"
       },
-
       {
-        "label": "Material Theme - Ocean Ui Darker High Contrast",
+        "label": "Material Theme Twilight Wave Darker High Contrast",
         "path": "./themes/Material-Ocean-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Material Theme - Ocean UI Darker",
+        "label": "Material Theme Twilight Wave Darker",
         "path": "./themes/Material-Ocean-Darker.json",
         "uiTheme": "vs-dark"
       },
-
       {
-        "label": "Material Theme - Ocean UI Palenight High Contrast",
+        "label": "Material Theme Twilight Wave Palenight High Contrast",
         "path": "./themes/Material-Ocean-Palenight-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
-
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/Tactition/Custom-Vs-Code-Theme/"
+      "url": "https://github.com/Tactition/Twilight-Wave-VsCode-Theme"
     }
-    
   }
 }
-
-
