@@ -1,36 +1,42 @@
-# Material Theme - Black Ocean Ui
+# Material Theme Twilight Waves
 
-#### Proudly Designed By Tactition  
-#### [Material Theme](https://github.com/Tactition/Custom-Vs-Code-Theme/) - [Ocean UI ](https://github.com/Tactition/Custom-Vs-Code-Theme/)
+**Material Theme Twilight Wave is Enhanced and Advanced Version Of legacy Community material Theme**
+
+##### __Proudly Designed By Tactition__ :  crafted for Visionary developers who spend countless hours coding. 
+
+#### [Material Theme Twilight Wave](https://github.com/Tactition/Twilight-Wave-VsCode-Theme) - [Black Ocean UI ](https://github.com/Tactition/Twilight-Wave-VsCode-Theme)
+
 ---
 
-<details open>
-<summary>ScreenShots Of Theme</summary>
-  
-<img src="https://i.ibb.co/R4zxvhJ8/Screenshot-2025-02-26-225053.png" alt="Screenshot-2025-02-26-225053" border="0" />
-<br>
-<img src="https://i.ibb.co/847dGCzB/Screenshot-14.png" alt="Screenshot-14" border="0" />
-  
-</details>
-
 ## 📌 Overview
-Material Theme - Ocean Ui is a modern dark mode theme for Visual Studio Code, designed to offer developers a sleek and comfortable coding environment. It features a carefully curated color palette that reduces eye strain and enhances code readability, making it ideal for long coding sessions.
+Material Theme Twilight Waves is a modern dark mode theme for Visual Studio Code, designed to offer developers a sleek and comfortable coding environment. It features a carefully curated color palette that reduces eye strain and enhances code readability, making it ideal for long coding sessions.
 
-## Also Install The "Fira Code" Font To Make the Theme Even More Attractive.. 
+###### Also Install The[ "Fira Code"](https://github.com/Tactition/Twilight-Wave-VsCode-Theme/blob/main/Fira_Code.zip) Font To Make the Theme Even More Attractive And Turn On the Font Liguature in vscode Settings(json)
+<code>"editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,</code>
+
+## 📌 ScreenShots
+<details Open>
+<summary>We Bleed In Peace And Rest In War</summary>
+<img src="https://i.ibb.co/R4zxvhJ8/Screenshot-2025-02-26-225053.png" alt="Screenshot-2025-02-26-225053" border="0" width="300px" /><img src="https://i.ibb.co/847dGCzB/Screenshot-14.png" alt="Screenshot-14" border="0" width="300px"/>
+  
+  ***Screenshots barely hint at its brilliance—experience a vibrant, immersive workspace that sparks creativity and redefines productivity.***
+
+</details>
 
 ## ✨ Features
 - **Sleek Dark Design:** Enjoy a modern, eye-friendly interface.
 - **Optimized Syntax Highlighting:** Vibrant colors for improved code clarity.
 - **Customizable:** Easily modify color tokens to suit your preferences.
-- **Regular Updates:** Maintained by Zahid Nazir and the WebAssets team.
+- **Regular Updates:** Maintained by Zahid Nazir.
 - **Lightweight & Fast:** Optimized for performance in VS Code.
 
 ## 📂 Installation
 1. Open Visual Studio Code.
 2. Go to the **Extensions** sidebar (press `Ctrl+Shift+X`).
-3. Search for **WebAssets Dark Theme**.
+3. Search for **Material Theme Twilight Waves**.
 4. Click **Install**.
-5. Open **File > Preferences > Color Theme** and select **WebAssets Dark Theme** to activate it.
+5. Open **File > Preferences > Color Theme** and select **Theme** to activate it.
 
 ## 📝 Manual Installation
 1. Download the theme package from the [GitHub repository](https://github.com/Tactition).
@@ -42,7 +48,7 @@ or
 
 4. open the command palette (Ctrl+Shift+P or Cmd+Shift+P on macOS), type "Extensions: Install from VSIX", and select your generated .vsix file.
 5. Navigate to the extracted directory and select the `.vsix` file to install the theme.
-6. Once installed, go to **File > Preferences > Color Theme** and select **Material Theme - Ocean Ui** to activate it.
+6. Once installed, go to **File > Preferences > Color Theme** and select **Material Theme Twilight Waves** to activate it.
 
 ## 🔧 Customization Guide
 - The theme settings are defined in a JSON file within the extension package.
@@ -58,27 +64,26 @@ This theme is licensed under the **MIT License**. Redistribution or resale is pr
 
 ## 👤 Author
 Created by **Zahid Nazir**, founder of **WebAssets**.  
-- Website: [www.WebAssets.com](https://www.webassets.com)  
+- Website: [Tactition](https://t.me/Tactition)  
 - Email: [Zahidnazir330@gmail.com](mailto:Zahidnazir330@gmail.com)
 
-## 💡 Credits
-This theme draws inspiration from modern design trends and leverages best practices from:
+## 💡 Beneficial
+This theme is Designed for modern design trends and leverages best practices from:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## 📬 Support
-For support or customization requests, please contact **Zahidnazir330@gmail.com** or call **+91 78898 04942**.
+For support or customization requests, please contact **Zahidnazir330@gmail.com**.
 
 ---
 ## 👥 Contributors
 We would like to thank the following contributors for their valuable input and support in the development of this theme:
 - **Zahid Nazir** - Lead Developer - Design and UX
-- **WebAssets Team** - Development and Maintenance
 - **Community Contributors** - Feedback and 
 Suggestions
--  ***Special Thanks*** - **Coding Assitant & Soldier** - 
+-  ***Special Thanks*** - **Coding Assitant & Farhaan Pala** -
 
 Your contributions are greatly appreciated!
 
-🚀 **Enjoy coding with WebAssets Dark Theme!**
+🚀 **Enjoy coding with Material Theme Twilight Wave Dark Theme!**
