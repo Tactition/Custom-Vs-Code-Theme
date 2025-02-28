@@ -82,7 +82,7 @@ We would like to thank the following contributors for their valuable input and s
 - **Zahid Nazir** - Lead Developer - Design and UX
 - **Community Contributors** - Feedback and 
 Suggestions
--  ***Special Thanks*** - **Coding Assitant & Farhaan Pala** -
+-  ***Special Thanks*** - **Hadiya Mehraj & Farhaan Pala** -
 
 Your contributions are greatly appreciated!
 
