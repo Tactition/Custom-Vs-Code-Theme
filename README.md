@@ -1,8 +1,8 @@
 # Material Theme Twilight Waves
 
-**Material Theme Twilight Wave is Enhanced and Advanced Version Of legacy Community material Theme**
+**An individual on a quest with a vision to achieve greatness through hard work and knowledge**
 
-##### __Proudly Designed By Tactition__ :  crafted for Visionary developers who spend countless hours coding. 
+##### __Proudly Designed By Tactition__ :If my extension improved your workspace, eased long coding sessions, and reduced eye strain, please support me via __[PayPal](https://www.paypal.com/ncp/payment/XKQHPARJYTB5J)__ or ___[Razorpay](https://razorpay.me/@ZahidNazir)___. Thank you!
 
 #### [Material Theme Twilight Wave](https://github.com/Tactition/Twilight-Wave-VsCode-Theme) - [Black Ocean UI ](https://github.com/Tactition/Twilight-Wave-VsCode-Theme)
 
